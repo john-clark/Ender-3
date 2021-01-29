@@ -1,0 +1,1 @@
+Ender3pro Max Clearance X-belt tensioner (Reuses stock parts) by Xyphos on Thingiverse: https://www.thingiverse.com/thing:4615085

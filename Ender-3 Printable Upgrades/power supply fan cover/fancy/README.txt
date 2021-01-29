@@ -1,0 +1,1 @@
+Ender 3 and Ender 3 Pro Fan Silencer Shrouds for PSU by Lyl3 on Thingiverse: https://www.thingiverse.com/thing:3703510

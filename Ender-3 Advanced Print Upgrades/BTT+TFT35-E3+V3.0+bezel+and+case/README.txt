@@ -1,0 +1,1 @@
+BTT TFT35-E3 V3.0 bezel and case by Andy-ABTec on Thingiverse: https://www.thingiverse.com/thing:4177691

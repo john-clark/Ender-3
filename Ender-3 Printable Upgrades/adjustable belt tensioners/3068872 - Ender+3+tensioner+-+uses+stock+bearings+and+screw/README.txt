@@ -1,0 +1,1 @@
+Ender 3 tensioner - uses stock bearings and screw by davidtriune on Thingiverse: https://www.thingiverse.com/thing:3068872
