@@ -1,0 +1,9 @@
+$11, tensioner, https://www.amazon.com/WINSINN-Synchronous-Straighten-Tensioner-Creality/dp/B07X8GSGR7
+$, SKR MINI E3,
+$, TT Display, 
+$, dual z-axis leadscrew, 
+$, leveling nuts,
+$, springs, 
+$, bltouch,
+$, extruder, 
+$, nozzles,
