@@ -1,1 +1,0 @@
-Temp Tower PLA,ABS,PETG by stoempie on Thingiverse: https://www.thingiverse.com/thing:2493504

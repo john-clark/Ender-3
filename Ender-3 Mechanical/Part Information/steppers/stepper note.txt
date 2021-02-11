@@ -1,0 +1,17 @@
+JK: JKong Motor (brand)
+
+42: Width of the motor (~42mm, 1.7", meaning NEMA 17)
+
+H: ???
+
+S: S = 1.8 degrees/step, M = 0.9 degrees/step
+
+34: Length of the motor body (in mm)
+
+084: Current/Phase (0.84A here)
+
+4: Number of wires to control the motor
+
+YA: ???
+
+03F: ???
